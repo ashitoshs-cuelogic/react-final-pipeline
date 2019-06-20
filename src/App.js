@@ -26,7 +26,7 @@ class App extends Component {
         <div className="header-div">
           <img src={logo} alt="Home" className="img-logo" />
           <h2 className="h2-title">
-            <strong>My App</strong>
+            <strong>This is my first My App</strong>
           </h2>
         </div>
 
